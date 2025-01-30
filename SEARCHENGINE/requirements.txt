@@ -1,0 +1,12 @@
+langchain
+langchain_core
+langchain_community
+streamlit
+python-dotenv
+langchain_openai
+bs4
+arxiv
+langchain_groq
+duckduckgo-search
+wikipedia
+huggingface_hub
