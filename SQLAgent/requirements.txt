@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain_community
+SQLAlchemy
+langchain_groq
